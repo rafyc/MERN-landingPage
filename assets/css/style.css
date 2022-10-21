@@ -180,7 +180,9 @@ section {
   background: #fff;
   padding: 40px;
 }
-
+#titre {
+    scroll-padding: 300px;
+  }
 .step .number {
   background: linear-gradient(-45deg, #1391a5, #274685);
   -webkit-background-clip: text;
