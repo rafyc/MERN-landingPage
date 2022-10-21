@@ -73,6 +73,9 @@ section {
 .section {
   padding: 7rem 0;
 }
+#image, #titre{
+    padding: 5px;
+}
 
 .section-heading {
   font-size: 3rem;
@@ -644,7 +647,7 @@ section {
 # Navigation Menu
 --------------------------------------------------------------*/
 /**
-* Desktop Navigation 
+* Desktop Navigation
 */
 .navbar {
   padding: 0;
@@ -755,7 +758,7 @@ section {
 }
 
 /**
-* Mobile Navigation 
+* Mobile Navigation
 */
 .mobile-nav-toggle {
   color: #fff;
@@ -859,7 +862,7 @@ section {
 # Hero Section
 --------------------------------------------------------------*/
 .hero-section {
-  background: linear-gradient(to right, rgba(39, 70, 133, 0.8) 0%, rgba(61, 179, 197, 0.8) 100%), url(../img/hero-bg.jpg);
+  background: linear-gradient(to right, rgba(0, 0, 0, 0.8) 0%, rgba(3, 0, 173, 0.227) 100%), url(../img/hero-bg.jpg);
   position: relative;
 }
 
