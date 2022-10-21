@@ -323,7 +323,7 @@ section {
 
 /* CTA Section */
 .cta-section {
-  background: linear-gradient(to right, rgb(39, 70, 133) 0%, rgb(61, 179, 197) 100%);
+  background: linear-gradient(to right, #1e1063 0%, #e0003c 100%);
   color: #fff;
 }
 
@@ -621,7 +621,7 @@ section {
 }
 
 #header.header-scrolled {
-  background: rgba(39, 70, 133, 0.8);
+  background: #041863a8;
   height: 60px;
 }
 
